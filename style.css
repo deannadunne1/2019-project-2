@@ -1,0 +1,110 @@
+#home {
+  background-image: url("https://cdn.glitch.com/ac353f4a-a3f4-4851-884c-071732adc513%2Fimage.png?1557676914455");
+  text-align:center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
+.title {
+  font-family: 'Roboto Slab', serif;
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -1px;
+  line-height: 80px;
+  text-transform: none;
+  color: #4D4C4A;
+}
+
+.smallTitle {
+  font-family: 'Roboto Slab', serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -2px;
+  line-height: 60px;
+  text-transform: none;
+  color: #4D4C4A;
+}
+
+
+.subtitle {
+  font-family: 'Raleway', sans-serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 200;
+  letter-spacing: normal;
+  line-height: 30px;
+  text-transform: none;
+  color: #4D4C4A;
+  
+}
+
+.text {
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 100;
+  letter-spacing: normal;
+  line-height: 20px;
+  text-transform: none;
+  color: #4D4C4A;
+  text-align: left;
+  
+}
+
+.iText {
+  font-family: 'Raleway', sans-serif;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 200;
+  letter-spacing: normal;
+  line-height: 40px;
+  text-transform: none;
+  color: #4D4C4A;
+  text-align: center;
+  
+}
+
+.nav-wrapper {
+  background-color: #4D4C4A;
+  background-attachment: fixed;
+}
+
+#header {
+  background-color: #C2DADC;
+  height: 300px;
+
+}
+
+#secondWrapper {
+  background-image: url("https://wallimpex.com/data/out/348/white-paper-wallpapers-7243867.jpg");
+  text-align:center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 1350px;
+}
+
+#second {
+  background-color: #FFFFFF;
+  height: 650px;
+  margin-top: 500px;
+}
+
+#third{
+  
+  height: auto;
+  margin-top: 0px;
+}
+
+#fourth {
+  width: 30%;
+  margin: auto;
+}
+
+#fifth {
+  background-color: #C2DADC;
+  height: 650px;
+  margin-top: -50px;
+}
