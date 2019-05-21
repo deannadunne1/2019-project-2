@@ -1,8 +1,9 @@
 #home {
-  background-image: url("https://cdn.glitch.com/ac353f4a-a3f4-4851-884c-071732adc513%2Fimage.png?1557676914455");
+  background-image: url("https://cdn.glitch.com/ac353f4a-a3f4-4851-884c-071732adc513%2F3-essential-principles-responsive-design.jpg?1558384269421");
   text-align:center;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-size: cover;
 }
 
 
@@ -83,28 +84,34 @@
   text-align:center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  height: 1350px;
+  min-height: 1450px;
 }
 
 #second {
   background-color: #FFFFFF;
-  height: 650px;
+  height: minmax(650px auto);
   margin-top: 500px;
+}
+
+#thirdAndFourth {
+  padding: 200px 0px;
 }
 
 #third{
   
   height: auto;
   margin-top: 0px;
+  height: minmax(650px auto);
 }
 
 #fourth {
   width: 30%;
   margin: auto;
+  height: minmax(650px auto);
 }
 
 #fifth {
   background-color: #C2DADC;
-  height: 650px;
+  height: minmax(650px auto);
   margin-top: -50px;
 }
